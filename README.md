@@ -4,7 +4,7 @@
 
 💻 Fivem Developer
 
-🎓 Imparando -> **C#** 
+🎓 Imparando 
 
 <h3>Languages</h3>
 <p align="left">
