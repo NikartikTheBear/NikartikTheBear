@@ -8,7 +8,7 @@
 
 
 - 🔭 I’m currently working on **FiveM Development**
-- 🌱 I’m currently learning **C#, typescript, AWS**
+- 🌱 I’m currently learning *whatever i deem fun and a challenge*
 
 
 
